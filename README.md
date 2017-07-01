@@ -1,4 +1,4 @@
-# hegemony
+# Hegemony: a real-time resource management demo - JAVA
 Resource management demo, work in progress
 Manage your resources and build your empire!
 
